@@ -1,0 +1,17 @@
+:root{
+
+}
+#contenedor{
+    position: absolute;
+    left: 30%;
+    top: 70%;
+
+}
+
+    
+
+.contenedor-imagen{
+    display: inline-block;
+    left: 150px;
+    border: 5px solid #eee;
+}
